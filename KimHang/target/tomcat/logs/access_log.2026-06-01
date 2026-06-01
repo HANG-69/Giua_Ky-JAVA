@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [01/Jun/2026:10:07:09 +0000] "GET / HTTP/1.1" 200 2257 http-bio-8080-exec-1 769
+0:0:0:0:0:0:0:1 - - [01/Jun/2026:10:07:42 +0000] "GET /doitiente HTTP/1.1" 404 969 http-bio-8080-exec-3 6
+0:0:0:0:0:0:0:1 - - [01/Jun/2026:10:07:50 +0000] "GET /chuyendoi HTTP/1.1" 405 1065 http-bio-8080-exec-5 3
+0:0:0:0:0:0:0:1 - - [01/Jun/2026:10:07:56 +0000] "POST /chuyendoi HTTP/1.1" 200 383 http-bio-8080-exec-7 42
+0:0:0:0:0:0:0:1 - - [01/Jun/2026:10:08:08 +0000] "GET / HTTP/1.1" 200 2257 http-bio-8080-exec-9 12
+0:0:0:0:0:0:0:1 - - [01/Jun/2026:10:08:13 +0000] "GET /doigiavang.jsp HTTP/1.1" 404 979 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [01/Jun/2026:10:08:24 +0000] "GET /doitiente.jps HTTP/1.1" 404 977 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [01/Jun/2026:10:08:36 +0000] "GET /doitiente.jsp HTTP/1.1" 200 353 http-bio-8080-exec-1 1
